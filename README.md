@@ -1,7 +1,6 @@
 
 ![logo](https://github.com/ethanCun/ZYLoadAnimator/blob/master/ZYLoaddingAnimator.png)
 
-一个加载视图
 ##### 使用
 ```
 1.手动引入4个文件
