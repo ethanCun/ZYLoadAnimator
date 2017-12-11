@@ -11,5 +11,5 @@
 
 ##### 结束
 ```
-    [[ZYLoadingAnimator shareAnimator] showLoaddingAnimatorInView:self.view tintColor:[UIColor brownColor]];
+    [[ZYLoadingAnimator shareAnimator] hiddenLoaddingAnimator];
 ```
