@@ -1,8 +1,16 @@
 # ZYLoadAnimator
 一个加载视图
+##### 使用
+```
+1.手动引入4个文件
+2.coocapods
+pod 'ZYLoaddingAnimator', '~>0.0.1'
+```
 
 ##### 效果图
 ![image](https://github.com/ethanCun/ZYLoadAnimator/blob/master/ZYLoaddingAnimator.gif)
+
+
 
 ##### 开始
 ```
